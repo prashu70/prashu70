@@ -1,3 +1,5 @@
 ## Read Me
 
-This is a demo text
+This is a demo.
+
+Practicing Github
